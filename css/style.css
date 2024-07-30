@@ -373,7 +373,7 @@
         background-size: cover;
         background-position: center;
         height: 40rem;
-        width: 28rem;
+        width: auto;
         position: relative;
         z-index: 1;
         margin: 0;
