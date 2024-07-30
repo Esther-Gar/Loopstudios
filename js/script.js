@@ -2,6 +2,8 @@ const menuToggle = document.querySelector(".navLinks");
 const menuIcon = document.querySelector("#open");
 const closeIcon = document.querySelector("#close");
 
+menuToggle.style.display = "none";
+
 menuIcon.addEventListener('click', function() {
     menuToggle.style.display = "flex";
     closeIcon.style.display = "inline-block";
