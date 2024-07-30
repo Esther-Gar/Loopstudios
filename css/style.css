@@ -377,6 +377,8 @@
         width: 24rem;
         position: relative;
         z-index: 1;
+        margin: 0;
+        padding: 0;
     }
 
     .navBar {
@@ -435,7 +437,7 @@
         border-style: solid;
         border-color: var(--white);
         margin-left: 1.5rem;
-        margin-top: 4rem;
+        margin-top: 8rem;
         padding: 0 1rem 8rem 1.5rem;
         position: relative;
         z-index: -2;
