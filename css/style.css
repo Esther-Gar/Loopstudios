@@ -363,7 +363,6 @@
 /*=============Mobile View============*/
 @media screen and (max-width: 768px) {
     body {
-        min-width: 375px;
         margin: 0;
         padding: 0;
     }
@@ -374,7 +373,7 @@
         background-size: cover;
         background-position: center;
         height: 40rem;
-        width: 24rem;
+        width: 28rem;
         position: relative;
         z-index: 1;
         margin: 0;
